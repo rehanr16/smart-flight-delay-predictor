@@ -51,7 +51,10 @@ based on user inputs.
 ##  Web App Preview
 <img width="608" height="494" alt="Flight Delay" src="https://github.com/user-attachments/assets/bedaa104-c2a9-494e-b45f-240eeb7366f7" />
 
+## System Perspective
 
-##Author
+This project is not intended as a production-grade system, but as a conceptual prototype demonstrating how machine learning can support early-stage decision-making in aviation operations.
+
+## Author
 
 B.Tech CSE (AI & ML) student exploring real-world applications of machine learning in aviation analytics.
